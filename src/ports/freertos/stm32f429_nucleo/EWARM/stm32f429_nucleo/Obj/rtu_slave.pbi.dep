@@ -1,0 +1,3 @@
+rtu_slave.pbi: \
+  D:\mingxinxie\Documents\mcu\modbus\src\ports\freertos\mb_bsp.h \
+  D:\mingxinxie\Documents\mcu\modbus\src\ports\freertos\rtu_slave.c
